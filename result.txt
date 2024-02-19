@@ -1,7 +1,0 @@
-Type                     Value                    Name                     Line                     Position                 
-d                        GARBAGE                  Double                   2                        1                        
-d                        3.14159                  doubleNumber             10                       2                        
-us                       1000                     shortNumber              14                       2                        
-ci                       11                       constantValue            21                       4                        
--                        -                        otherValue               -                        -                        
-ub                       true                     boolean                  16                       3                        
